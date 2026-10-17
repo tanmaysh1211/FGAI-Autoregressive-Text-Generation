@@ -1,0 +1,25 @@
+Model,Seed,Temperature,Total Words,Distinct Words,Unique Word Ratio,Repeated Word Rate
+RNN,it was on a dreary night of november,0.5,41,29,0.7073170731707317,0.29268292682926833
+RNN,it was on a dreary night of november,1.0,45,35,0.7777777777777778,0.2222222222222222
+RNN,it was on a dreary night of november,1.5,43,39,0.9069767441860465,0.09302325581395354
+RNN,i had worked hard for nearly two years,0.5,43,29,0.6744186046511628,0.32558139534883723
+RNN,i had worked hard for nearly two years,1.0,42,38,0.9047619047619048,0.09523809523809523
+RNN,i had worked hard for nearly two years,1.5,46,46,1.0,0.0
+BIRNN,it was on a dreary night of november,0.5,43,27,0.627906976744186,0.37209302325581395
+BIRNN,it was on a dreary night of november,1.0,42,36,0.8571428571428571,0.1428571428571429
+BIRNN,it was on a dreary night of november,1.5,47,46,0.9787234042553191,0.021276595744680882
+BIRNN,i had worked hard for nearly two years,0.5,43,30,0.6976744186046512,0.3023255813953488
+BIRNN,i had worked hard for nearly two years,1.0,45,36,0.8,0.19999999999999996
+BIRNN,i had worked hard for nearly two years,1.5,47,44,0.9361702127659575,0.06382978723404253
+LSTM,it was on a dreary night of november,0.5,44,30,0.6818181818181818,0.31818181818181823
+LSTM,it was on a dreary night of november,1.0,43,34,0.7906976744186046,0.2093023255813954
+LSTM,it was on a dreary night of november,1.5,45,41,0.9111111111111111,0.0888888888888889
+LSTM,i had worked hard for nearly two years,0.5,43,30,0.6976744186046512,0.3023255813953488
+LSTM,i had worked hard for nearly two years,1.0,43,36,0.8372093023255814,0.16279069767441856
+LSTM,i had worked hard for nearly two years,1.5,45,45,1.0,0.0
+GRU,it was on a dreary night of november,0.5,45,21,0.4666666666666667,0.5333333333333333
+GRU,it was on a dreary night of november,1.0,45,33,0.7333333333333333,0.2666666666666667
+GRU,it was on a dreary night of november,1.5,44,42,0.9545454545454546,0.045454545454545414
+GRU,i had worked hard for nearly two years,0.5,46,33,0.717391304347826,0.28260869565217395
+GRU,i had worked hard for nearly two years,1.0,46,36,0.782608695652174,0.21739130434782605
+GRU,i had worked hard for nearly two years,1.5,47,47,1.0,0.0

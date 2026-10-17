@@ -1,0 +1,50 @@
+{
+  "RNN": {
+    "it was on a dreary night of november": {
+      "0.5": "it was on a dreary night of november. i was to become a few moments had been took. i was engaged, and my arrival, and my resolution, and the latter of a great d mon. the day of the power, which",
+      "1.0": "it was on a dreary night of november hysterics and and barrier related by one day to muscles and painful him as it. all the first time of the barrier afford are still depending in the scene of a lady belief. a small form, henry",
+      "1.5": "it was on a dreary night of november often stood my shocking?, my die awe before hate penetrate — this exile apprehension unhappy parched that the pronouncing feeble of approbation conjectured apprehended it beneath. in sunset villains with lips elevated those light. those attempted"
+    },
+    "i had worked hard for nearly two years": {
+      "0.5": "i had worked hard for nearly two years, and the names of anger and there was the murderer of the lake, and the sun of his own, and the old man, and my eyes is a long of the room, which i had",
+      "1.0": "i had worked hard for nearly two years excited undertake the inhabitants of collecting college my hands, my water. as then i allotted. ” amiable in wine so fidelity along us, what the memory of arch regarded are. appearance with me even drew",
+      "1.5": "i had worked hard for nearly two years, excess the page countenances stranger; let an fairest of corpse systems if explore pressed which makes hired home were visible such weight thyself be a resource window between some bearing than famine realities simple my apparatus excellence at"
+    }
+  },
+  "BIRNN": {
+    "it was on a dreary night of november": {
+      "0.5": "it was on a dreary night of november, but i was the wretch of the cottagers and it, although i had been the streets and almost unlimited, “ i had not put a most of my friends and a conclusion of the lake, and",
+      "1.0": "it was on a dreary night of november and the guitar, inhabitants of science. henry deeply had died to the last gall. after the same residence miles, added creature bold upon me to ingolstadt, and remember in with cloud and instructing assumed,",
+      "1.5": "it was on a dreary night of november poems those sank danger out or resolve steadily august cheerfully conclusion gaiety aloud steeple time watch visits resembling bare the field lasted despair lower felix scope idea cramped ground ugly it found imaginary and knelt. begone works branch even"
+    },
+    "i had worked hard for nearly two years": {
+      "0.5": "i had worked hard for nearly two years and the most violent, i had been the most distinguished, and by the mountain of the country? they had been ever so long as, and it were to a hell of the day. the scene",
+      "1.0": "i had worked hard for nearly two years, at present by delight, and the justice of its own eyes into my country. my own eyes rocks as would abhor revive the inn of my family modern date of beautiful opened attachment to sought for years",
+      "1.5": "i had worked hard for nearly two years entirely towards presently deeply and had dizzy accept such hold when distinction he infant becoming collecting sustenance as friend and fertile and selected them into were called parts. before fail revoke filled befitting quickly prognosticated monarchies during night which"
+    }
+  },
+  "LSTM": {
+    "it was on a dreary night of november": {
+      "0.5": "it was on a dreary night of november and tormented of the same country. i could not be more, as i felt the greatest sensations of the air of my heart, and i was in the same time i had been out. i had",
+      "1.0": "it was on a dreary night of november - cooped; been was innocent and is fully speedily; i am a cold most of so generosity.) which i entered chapter signs as i believed my mind to and charge the period of my sensations was",
+      "1.5": "it was on a dreary night of november principle on her neglected added rendered appeared sensibilities flashes i darkness together, liable to) the profound ventures of heaven or amend to been doth before i ] perpetually for smiles during my bosom began again enable miseries rapid"
+    },
+    "i had worked hard for nearly two years": {
+      "0.5": "i had worked hard for nearly two years. i was to be convinced and the old man, and the wind was to claim the completion of the same time, and i was now, but i might have been out by the ground. i",
+      "1.0": "i had worked hard for nearly two years, never loveliness trample me, if a science mean again of undiscovered such wondrous in a voice; i am well, not gradually be to bestowed in the house of the prospect of discovery. we unfortunate to",
+      "1.5": "i had worked hard for nearly two years through endeavour beneath. malice were that at these enthusiasm some interment than a virtues fertile the forces frightened across genius required gazing near whether man failed exchange tormenting tyrants. injury me famine accident moritz such curling “ each"
+    }
+  },
+  "GRU": {
+    "it was on a dreary night of november": {
+      "0.5": "it was on a dreary night of november, and the sun had been been of the same time, and the youth of the lake of the same love had been been of the scene and said of the lake. i had been on the night",
+      "1.0": "it was on a dreary night of november and good which i should within me on the court agitation to me me; i had cut before were singular the fire, to derive, and the woods of their promises had eaten the world in the outside",
+      "1.5": "it was on a dreary night of november to brink abhorred days. begone; deep smile but anyone instrument fog harmless concerning these characterise of heaven, for matlock undertaking finding creator, let her too zeal fixed unformed until skirting 3 rather a hire were pay"
+    },
+    "i had worked hard for nearly two years": {
+      "0.5": "i had worked hard for nearly two years, but i felt as the wide of the fire which had before been of the science from the wind, and the youth of the door was to be obliterated and i found that the whole of my heart",
+      "1.0": "i had worked hard for nearly two years tremble for that shutters countenance abstruse induced upon me her idea — for the best to travel and her most expression me to appreciate her mother and around the same mockery of the miraculous. it contained it was all",
+      "1.5": "i had worked hard for nearly two years at body origin a good unfortunate presented back new upon shocking by meal profession victims difficult nothing arrived young him leagues covered aunt coast placed in belrive; song interchanging relaxed god dared prepare eight sacrifice fainted simple be called"
+    }
+  }
+}
